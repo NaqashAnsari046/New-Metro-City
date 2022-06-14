@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/New-Metro-City/static/css/main.c22d2b14.css",
+    "main.js": "/New-Metro-City/static/js/main.1bf8bbe8.js",
+    "static/js/787.a83accd8.chunk.js": "/New-Metro-City/static/js/787.a83accd8.chunk.js",
+    "index.html": "/New-Metro-City/index.html",
+    "main.c22d2b14.css.map": "/New-Metro-City/static/css/main.c22d2b14.css.map",
+    "main.1bf8bbe8.js.map": "/New-Metro-City/static/js/main.1bf8bbe8.js.map",
+    "787.a83accd8.chunk.js.map": "/New-Metro-City/static/js/787.a83accd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c22d2b14.css",
+    "static/js/main.1bf8bbe8.js"
+  ]
+}
